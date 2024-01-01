@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif"/>
+  <img width="400" src="https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif"/>
 </div>
 
 ###
