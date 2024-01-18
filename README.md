@@ -9,7 +9,7 @@
 ###
 
 <h3 align="center">🛠 Contact with me :</h3>
-  <div style="text-align: center;">
+  <div align="center">
   <a href="https://linkedin.com/in/achrafbmr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/achrafbmr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://facebook.com/achrafboumour"><img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
