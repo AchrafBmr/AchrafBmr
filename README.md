@@ -8,9 +8,11 @@
 
 ###
 
-<h3 align="left">🛠 Contact with me :</h3>
+<h3 align="center">🛠 Contact with me :</h3>
   <div style="text-align: center;">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achrafbmr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/achrafbmr) [![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/achrafboumour)
+  <a href="https://linkedin.com/in/achrafbmr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/achrafbmr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://facebook.com/achrafboumour"><img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
 </div>
   
 
@@ -31,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="centre">🛠 Language and tools</h3>
 
 ###
 
