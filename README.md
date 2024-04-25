@@ -1,2 +1,3 @@
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=989&color=9EF3FF&center=true&vCenter=true&random=false&width=435&lines=Hi+there;Achraf+is+here" alt="Typing SVG" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=400&height=45&duration=3000&lines=Hi+There+👋;+Achraf+is+here!;" />
 </h1>
